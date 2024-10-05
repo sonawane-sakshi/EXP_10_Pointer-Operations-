@@ -11,3 +11,8 @@ using namespace std;
         cout<<"a = "<<a<<endl;
         cout<<"b = "<<b<<endl;
     }
+/*
+**OUTPUT**
+a = 20
+b = 10
+*/
